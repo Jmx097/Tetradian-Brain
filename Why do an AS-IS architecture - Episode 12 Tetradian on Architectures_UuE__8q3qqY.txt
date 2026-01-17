@@ -1,0 +1,8 @@
+Title: Why do an AS-IS architecture? - Episode 12, Tetradian on Architectures
+URL: https://www.youtube.com/watch?v=UuE__8q3qqY
+ID: UuE__8q3qqY
+Views: 369
+Date: N/A
+--------------------
+
+why would we do it as is architecture this is a question that was asked by David Eddy the main reason for use the useful reason for doing an as is architecture a documentation of what we already have is to support change projects I know that some people will argue against our changes or projects concept in an architecture environment but actually it's useful and it's how most people operate anyway so we do need to support it what an ICS architecture does is that it identifies what exists and what is available for reuse it gives us something to change from in order to get to so we model after we're modeling as is after we've done the to be or could be architecture stage otherwise what happens is that to be is often usually too much influenced by what is so we do that to be first not after remember also the just enough detail mantra we only do exactly as much of the dock of the architecture as we need to document for this project but we make sure it has hooks to link it into other things when they get looked at we need to be careful always to avoid the boil the ocean trap remember it depends just enough detail and also remember to the what we might call the traveling now the future to be well at some time the future become the as is there is no actual past present state future state because there's actually no such thing as state so we model and as is architecture enough to support the work that we need to do we don't try to boil the ocean just enough detail is the thing that we're looking for

@@ -1,0 +1,8 @@
+Title: Can we outsource EA? - Episode 5, Tetradian on Architectures
+URL: https://www.youtube.com/watch?v=sxfUjs4uKUw
+ID: sxfUjs4uKUw
+Views: 392
+Date: N/A
+--------------------
+
+this time a really useful question from Taketomi can we outsource Enterprise Architecture my short answer to this is no really really don't do it architecture is a practice it's everyone's responsibility throughout the organization it's not a project it's not something you can hand over to someone else if a big consultancy says we will do your architecture for you run away as fast as you can this really does matter architecture must be owned by the organization it's like strategy it has to be run by the organization itself so it's all about a long term it's all about personal responsibilities it's personal relationships it's all about local context and so on the only thing that an external consultant can do well they can document a great chunk of stuff but that's hardly what we will call architecture the real role of an external consultant is to help them build the skill build the maturity of the organization its ability to handle the handle the complexities the practices of how things work better together on purpose the only other thing that an external consultant is you is can do and is very useful for it is is that external consultants can provide a counter to groupthink a counter to the habit of not invented here so the short answer to Tarek's question about can we outsource EA the answer is definitely no there is a role for external consultants to help with the overall picture to build the scare capability and skills but that's really about it it's something that you have to do within your own organization

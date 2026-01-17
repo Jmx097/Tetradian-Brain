@@ -1,0 +1,8 @@
+Title: Selling EA - Episode 2: Tetradian on Architectures
+URL: https://www.youtube.com/watch?v=WSeZcQEGZMM
+ID: WSeZcQEGZMM
+Views: 831
+Date: N/A
+--------------------
+
+this one was a question from Emma Court and she asked what was a two-minute sales pitch for enterprise architecture how do we sell the value of enterprise architecture or architecture in general to executives and others well my one line summary is that architectures are about that things work better when they work together on purpose a negative version of that is one of the inverses what's it like if things don't work they don't work on purpose they don't work together they don't work well or they don't work at all architecture helps us get a little bit past those negative it that the negative emotions without architecture what we get is what's known as posi would the purpose of the system is expressed in what it does there's no purpose there so we have if we want a purpose we've got to actually explicitly and intentionally build it so that things do work together better on purpose the other one who need to emphasize is that architecture is everyone's responsibilities not just the responsibility of the architect often the main job of an architect is not in designing something but getting people to design it themselves getting people to find the right questions softn the architects real responsibility is to remind everyone that isn't everyone's responsibility to make sure that things work better together on purpose I'd say that's about a one to two minute sales pitch for enterprise architecture

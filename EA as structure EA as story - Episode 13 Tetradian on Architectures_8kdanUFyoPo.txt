@@ -1,0 +1,8 @@
+Title: EA as structure, EA as story - Episode 13, Tetradian on Architectures
+URL: https://www.youtube.com/watch?v=8kdanUFyoPo
+ID: 8kdanUFyoPo
+Views: 297
+Date: N/A
+--------------------
+
+this time I want to look a bit about structure and story within an architecture most existing architecture particularly in the IT architecture or enterprise architecture space is focused on structure but there's a very useful phrase that came up from mother Matthew Frederick's book 101 things I learned in architecture school well he talks about two different views about architecture as an exercise in truth or architecture as an exercise in narrative which focus is much more on the human side so in that sense we can think of architecture as structure but also architecture as story and if we go over focused too much on the structure we lose connection with the human story importantly here one of the best ways to look at this is to think of organization as structure whereas the enterprise is a story as we saw before an enterprise is something much larger than just the organization itself so if we think of enterprise a story it's a story that everyone shares and in that sense although we can possess a structure we can't possess a story so the architecture is about understanding what that story is and how it intersects with the structure how the structure is support as supports and is supported by the story that is the overall driver for everything that happens so in an architecture we need to get the balance right between structure and story to focus on the narrative as much as on the structures and look closely at how they link together so architecture as an exercise in truth or structure or the human story that underpins it you
